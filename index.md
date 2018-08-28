@@ -17,7 +17,7 @@
 
 C# คือ ภาษาคอมพิวเตอร์ประเภท object-oriented programming พัฒนาโดย Microsoft โดยมีจุดมุ่งหมายในการวมความสามารถการคำนวณของ C++ ด้วยการโปรแกรมง่ายกว่าของ Visual Basic โดย C# มีพื้นฐานจาก C++ และเก็บส่วนการทำงานคล้ายกับ Java
 
-![Image](https://github.com/suwatjanee005/c-homework/blob/master/clogo.png)
+![Image](https://raw.github.com/suwatjanee005/c-homework/blob/master/clogo.png)
 
 เปรียบเทียบภาษา C# กับภาษาอื่นๆ
 
@@ -52,14 +52,14 @@ C# คือ ภาษาคอมพิวเตอร์ประเภท obj
 
 ## ควบคุมการใช้ห้อง ICT
 
-![Image](https://github.com/suwatjanee005/c-homework/blob/master/%E0%B8%AD%E0%B8%B2%E0%B8%AA%E0%B8%B2.jpg)
+![Image](https://raw.github.com/suwatjanee005/c-homework/blob/master/%E0%B8%AD%E0%B8%B2%E0%B8%AA%E0%B8%B2.jpg)
 
 ## สอนการใช้คอมพิวเตอร์ขั้นพื้นฐานสำหรับนักเรียน
 
-![Image](https://github.com/suwatjanee005/c-homework/blob/master/%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%88%E0%B8%B4%E0%B8%95.jpg)
+![Image](https://raw.github.com/suwatjanee005/c-homework/blob/master/%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%88%E0%B8%B4%E0%B8%95.jpg)
 
 ## เพื่อนๆพี่ๆน้องๆในคณะ น่ารักทุกคน
-![Image](https://github.com/suwatjanee005/c-homework/blob/master/IT.jpg)
+![Image](https://raw.github.com/suwatjanee005/c-homework/blob/master/IT.jpg)
 
 
 
