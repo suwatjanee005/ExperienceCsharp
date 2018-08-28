@@ -6,8 +6,10 @@
 สาขาวิทยาการคอมพิวเตอร์
 
 ชั้นปีที่2 มหาวิทยาลัยเนชั่น
-[Link](http://www.nation.ac.th)
+
+
 ![Image](https://raw.githubusercontent.com/thaiall/programming-page/master/Nation_University_Logo.png)
+[Link](http://www.nation.ac.th)
 
 
 # เรื่องที่สนใจจะศึกษา
