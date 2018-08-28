@@ -29,7 +29,7 @@ C# คือ ภาษาคอมพิวเตอร์ประเภท obj
 
 ## ตัวอย่างการเขียนโปรแกรมบน ##Windows Form
 
-[กดตรงนี้เลยค่ะ](file:///C:/Users/Freshy'60/Desktop/งานจ้า.pdf)
+[กดตรงนี้เลยค่ะ](https://github.com/suwatjanee005/c-homework/blob/master/%E0%B9%81%E0%B8%9F%E0%B9%89%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B8%9C%E0%B8%A5%E0%B8%87%E0%B8%B2%E0%B8%99-%E0%B8%9B%E0%B8%B51-%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A11.docx)
 
 
 # อีกหนึ่งเรื่องที่ดิฉันตั้งใจจะศึกษาคือการเขียนแอพพลิเคชั่นด้วย PHP
