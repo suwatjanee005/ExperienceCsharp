@@ -9,10 +9,16 @@
 
 
 ![Image](https://raw.githubusercontent.com/thaiall/programming-page/master/Nation_University_Logo.png)
-[Link](http://www.nation.ac.th)
+## [มหาวิทยาลัยเนชั่น](http://www.nation.ac.th)
 
 
 # เรื่องที่สนใจจะศึกษา
+
+## [C#](http://mindphp.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/73-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3/2184-c-%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9B-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3)
+
+![Image](https://github.com/fulkkie24/CSharpHomeWork/blob/master/marcuscode_XLgCGHrYlAfWpY2_1000.png)
+
+
 C# คืออะไร
 C# คือ ภาษาคอมพิวเตอร์ประเภท object-oriented programming พัฒนาโดย Microsoft โดยมีจุดมุ่งหมายในการวมความสามารถการคำนวณของ C++ ด้วยการโปรแกรมง่ายกว่าของ Visual Basic โดย C# มีพื้นฐานจาก C++ และเก็บส่วนการทำงานคล้ายกับ Java
 
@@ -23,7 +29,11 @@ C# คือ ภาษาคอมพิวเตอร์ประเภท obj
 2.C# และภาษา Java ทั้งคู่เป็นแบบสืบจากคลาสหลักได้คลาสเดียว ขณะที่ภาษา C++ สามารถสืบจากคลาสหลักได้มากกว่าหนึ่ง (Multiple inheritance) โดยภาษา C# และภาษา Java ใช้ Interface มาทดแทน Multiple inheritance เหมือนกันทั้งคู่
 3.สิ่งที่ภาษา C# และ Java มีร่วมกันคือเรื่อง Garbage Collection แต่ไม่มีใน C++ จึงทำให้ดูเหมือนว่าภาษา Java ต่อยอดมาจากภาษา C++ และ C# ต่อยอดมาจาก Java อีกที ที่เป็นเช่นนั้นเพราะทั้ง Java และ C# มีต้นสายมาจาก C++ ทำให้สองภาษานี้ดูคล้ายกัน แต่ภาษา C# ไม่ใช่ภาษา Java มันมีกลไกที่เป็นเอกลักษณ์หลายอย่าง
 
-# อีกที่ดิฉันตั้งใจจะศึกษาคือการเขียนแอพพลิเคชั่นด้วย PHP
+# อีกหนึ่งเรื่องที่ดิฉันตั้งใจจะศึกษาคือการเขียนแอพพลิเคชั่นด้วย PHP
+โดยการเขียนสรุปจากหนังสือ " การสร้างเว็บแอพพลิเคชั่นด้วย PHP AJAX และ JQuery "
+
+กดที่ลิงค์ข้างล้างได้เลยค่ะ
+
 [Link](https://www.facebook.com/ajarnburin/photos/a.1784650131549110/1784650354882421/?type=3&theater&ifg=1)
 
 
