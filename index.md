@@ -5,7 +5,7 @@
 
 สาขาวิทยาการคอมพิวเตอร์
 
-ชั้นปีที่2 มหาวิทยาลัยเนชั่น
+นักศึกษาชั้นปีที่2 มหาวิทยาลัยเนชั่น
 
 
 ![Image](https://raw.githubusercontent.com/thaiall/programming-page/master/Nation_University_Logo.png)
@@ -34,7 +34,10 @@ C# คือ ภาษาคอมพิวเตอร์ประเภท obj
 
 กดที่ลิงค์ข้างล้างได้เลยค่ะ
 
-[Link](https://www.facebook.com/ajarnburin/photos/a.1784650131549110/1784650354882421/?type=3&theater&ifg=1)
+[การสร้างเว็บแอพพลิเคชั่นด้วย PHP AJAX และ JQuery](https://www.facebook.com/ajarnburin/photos/a.1784650131549110/1784650354882421/?type=3&theater&ifg=1)
+
+
+[หนังสือการสร้างเว็บแอพพลิเคชั่นด้วย PHP AJAX และ JQuery](https://www.se-ed.com/product)
 
 
 - [x]  การลงโปรแกรมพื้นฐาน และการลง Windows :computer:
