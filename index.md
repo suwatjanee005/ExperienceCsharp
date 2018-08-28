@@ -18,7 +18,7 @@
 
 C# คือ ภาษาคอมพิวเตอร์ประเภท object-oriented programming พัฒนาโดย Microsoft โดยมีจุดมุ่งหมายในการวมความสามารถการคำนวณของ C++ ด้วยการโปรแกรมง่ายกว่าของ Visual Basic โดย C# มีพื้นฐานจาก C++ และเก็บส่วนการทำงานคล้ายกับ Java
 
-![Image](https://github.com/suwatjanee005/c-homework/blob/master/csharp-bordered-turquoise.png)
+![Image](https://github.com/suwatjanee005/c-homework/blob/master/clogo.png)
 
 เปรียบเทียบภาษา C# กับภาษาอื่นๆ
 
@@ -63,6 +63,8 @@ C# คือ ภาษาคอมพิวเตอร์ประเภท obj
 ![Image](https://github.com/suwatjanee005/c-homework/blob/master/IT.jpg)
 
 
-#วันนี้ก็ขอลาไปก่อนนะ ขอบคุณที่อ่านจนจบน่ะค่ะ
+
+
+# วันนี้ก็ขอลาไปก่อน ขอบคุณที่ติดตามน่ะค่ะ
 
 
