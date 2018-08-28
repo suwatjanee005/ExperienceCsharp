@@ -6,6 +6,9 @@
 สาขาวิทยาการคอมพิวเตอร์
 
 ชั้นปีที่2 มหาวิทยาลัยเนชั่น
+[Link](http://www.nation.ac.th)
+![Image](https://raw.githubusercontent.com/thaiall/programming-page/master/Nation_University_Logo.png)
+
 
 # เรื่องที่สนใจจะศึกษา
 C# คืออะไร
@@ -24,5 +27,6 @@ C# คือ ภาษาคอมพิวเตอร์ประเภท obj
 - [x]  ด้านมัลติมีเดี่ย ตัดต่อวิดีโอ :video_camera:
 
 ## แนะนำเพื่อน คนรู้จัก หนังสือที่ชอบ หรือแหล่งเรียนรู้
-[Link](http://www.nation.ac.th)
+
+
 
